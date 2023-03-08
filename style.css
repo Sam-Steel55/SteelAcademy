@@ -129,7 +129,7 @@ nav button{
    color: var(--color-danger);
 }
 .window-scroll{
-   background: var(--color-primary);
+   background: var(--color-bg1);
    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
 }
 
